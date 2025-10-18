@@ -4,7 +4,7 @@ Una página web interactiva que presenta los 12 principios del Manifiesto Ágil 
 
 ## 🌐 Demo
 
-**[Ver página en vivo](https://ronytrespalacios.github.io/manifiesto-agil/)**
+<strong><a href="https://ronytrespalacios.github.io/manifiesto-agil/" target="_blank" rel="noopener noreferrer">Ver página en vivo</a></strong>
 
 ## ✨ Características
 
@@ -31,4 +31,4 @@ Simplemente abre `index.html` en tu navegador o visita la página desplegada.
 
 ---
 
-*Desarrollado por [@RonyTrespalacios](https://github.com/RonyTrespalacios)*
+<i>Desarrollado por <a href="https://github.com/RonyTrespalacios" target="_blank" rel="noopener noreferrer">@RonyTrespalacios</a></i>
